@@ -1,0 +1,22 @@
+{
+  "name": "presentation-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabricio Gabriel Dupont",
+  "license": "ISC",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "express": "^4.16.4",
+    "google-trends-api": "^4.9.0",
+    "i18n": "^0.8.3",
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.5.0",
+    "pptxgenjs": "^2.5.0",
+    "readline-sync": "^1.4.9",
+    "sbd": "^1.0.15"
+  },
+  "description": ""
+}

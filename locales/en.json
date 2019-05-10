@@ -1,0 +1,10 @@
+{
+	"choice_language": "Escolha a linguagem: ",
+	"sentence_number": "Type a number of sentences: ",
+    "search_term": "Type a search term: ",
+    "search_prefixes": "Choose an option:  ",
+	"search_prefixes.who": "Who is",
+	"search_prefixes.what": "What is",
+	"search_prefixes.history": "The history of",
+	"copyright": "Copyright"
+}

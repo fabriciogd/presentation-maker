@@ -1,0 +1,10 @@
+{
+	"choice_language": "Escolha a linguagem: ",
+	"sentence_number": "Digite o número de sentenças: ",
+    "search_term": "Digite o termo que está buscando: ",
+    "search_prefixes": "Escolha uma opção: ",
+	"search_prefixes.who": "Quem foi",
+	"search_prefixes.what": "O que é",
+	"search_prefixes.history": "A história",
+	"copyright": "Direitos reservados"
+}
